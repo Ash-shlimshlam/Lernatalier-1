@@ -4,7 +4,7 @@
 
 ## Grob-Planung
 
-Ich möchte programmieren mit C# mehr üben indem ich eine Programm erstelle wo (man eine Zahl erraten kann mithilfe eine PAP?)
+Ich möchte programmieren mit C# mehr üben indem ich eine Programm erstelle wo man eine Zahl erraten kann mithilfe eine PAP
 
 ## 28.8.2026
 
