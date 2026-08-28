@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37531.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LA 1, Zahl raten", "LA 1, Zahl raten\LA 1, Zahl raten.csproj", "{5ECFBD6A-A6D4-4AFA-A7CD-3704D408CA02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ECFBD6A-A6D4-4AFA-A7CD-3704D408CA02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECFBD6A-A6D4-4AFA-A7CD-3704D408CA02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ECFBD6A-A6D4-4AFA-A7CD-3704D408CA02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ECFBD6A-A6D4-4AFA-A7CD-3704D408CA02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B5CAD99-EF7D-4080-BB95-ABBDAA3371DE}
+	EndGlobalSection
+EndGlobal
