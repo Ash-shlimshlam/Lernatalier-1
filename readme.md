@@ -21,12 +21,12 @@ Ich möchte programmieren mit C# mehr üben indem ich eine Programm erstelle wo 
 ✍️ Heute habe ich meine Projekt angefangen, ich habe herausgefunden, wie ich die Wörter speichern und im eine random Reihenfolge abgefragt werden. Ich habe für jetzt nur mit zwei Wörter gearbeitet. Diese Programm wiederholt sich für jetzt unendlich. 
 
 ## 11.9.2026
--[ ] Ich möchte mich über "List" informieren und das in meine Programm einfüge, sodass ich eine List machen kann, die den Voci Wörter speichert.
+- [ ] Ich möchte mich über "List" informieren und das in meine Programm einfüge, sodass ich eine List machen kann, die den Voci Wörter speichert.
 
--[ ] Ich möchte, dass mein Programm sich nicht ständig wiederholst.
+- [ ] Ich möchte, dass mein Programm sich nicht ständig wiederholst.
 
--[ ] Ich möchte lernen, wie ich "load words from file" kann. 
+- [ ] Ich möchte lernen, wie ich "load words from file" kann. 
 
--[ ] Ich möchte an Modul 431 arbeiten, da ich hinterher bin. Ich würde gerne mindesten eine Auftrag erledigen
+- [ ] Ich möchte an Modul 431 arbeiten, da ich hinterher bin. Ich würde gerne mindesten eine Auftrag erledigen
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
