@@ -29,4 +29,13 @@ Ich möchte programmieren mit C# mehr üben indem ich eine Programm erstelle wo 
 
 - [ ] Ich möchte an Modul 431 arbeiten, da ich hinterher bin. Ich würde gerne mindesten eine Auftrag erledigen
 
+Heute habe ich mich über 'List' informieren und habe das in eine andere Programm eingeführt(als eine 'sketch'). Bei den zweite Arbeitpaket habe ich mich weiter informiert von wie ich es verbessern kann. Ich habe dann den List gelöscht und eine 'Dictionary' gemacht. Jetzt kann man den Franz Wort und übersetzung notieren auf eine 'dictionary'. Ich habe heraus gefunden, wie die Wörter sich random kommt. Und wenn man es antwortet sagt antwortet den programm entweder "Richtig" oder "falsch". Leider lauft den Programm für jetzt nur einmal.
+
+Hausaufgabe:
+-[ ] Ich möchte, dass den Programm weiter frage stellt bis jede Wort einmal vorkommt 
+
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+
+## 18.9.2026
+- [ ] Ich möchte mehr Wörter einfügen und das es den antwort sagt, wenn man es falsch hat.
+- [ ] Ich möchte es besser gestalten (z.B farben)
