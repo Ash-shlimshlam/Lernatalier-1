@@ -32,7 +32,8 @@ Ich möchte programmieren mit C# mehr üben indem ich eine Programm erstelle wo 
 Heute habe ich mich über 'List' informieren und habe das in eine andere Programm eingeführt(als eine 'sketch'). Bei den zweite Arbeitpaket habe ich mich weiter informiert von wie ich es verbessern kann. Ich habe dann den List gelöscht und eine 'Dictionary' gemacht. Jetzt kann man den Franz Wort und übersetzung notieren auf eine 'dictionary'. Ich habe heraus gefunden, wie die Wörter sich random kommt. Und wenn man es antwortet sagt antwortet den programm entweder "Richtig" oder "falsch". Leider lauft den Programm für jetzt nur einmal.
 
 Hausaufgabe:
-- [ ] Ich möchte, dass den Programm weiter frage stellt bis jede Wort einmal vorkommt 
+- [ ] Ich möchte, dass den Programm weiter frage stellt bis jede Wort einmal vorkommt
+Ich habe programmiert, dass es jede Frage mindesten einmal gestellt wird und falls man flasch antwortet wird den Frage in eine zufällige Zeit kommt.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
