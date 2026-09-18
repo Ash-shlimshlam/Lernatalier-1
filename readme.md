@@ -2,6 +2,11 @@
 
 28.8 bis 18.9
 
+## Fertiges Projekt
+Meine Projekt stellt Wörter auf Deutsch, die man auf Französisch übersetzen muss. Diese Wörter werden auf eine Dictionary in dem Programm gespeichert, wo man auch diese Wörter ändern oder mehr Wörter hinzufügen können.
+<img width="472" height="251" alt="Screenshot 2026-09-18 161429" src="https://github.com/user-attachments/assets/21a4604e-e78b-4924-8d0a-bbea18f21d43" />
+
+
 ## Grob-Planung
 
 Ich möchte programmieren mit C# mehr üben indem ich eine Programm erstelle wo man eine Zahl erraten kann mithilfe eine PAP
