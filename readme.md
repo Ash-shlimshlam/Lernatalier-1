@@ -50,7 +50,7 @@ Ich habe programmiert, dass es jede Frage mindesten einmal gestellt wird und fal
 ## Reflexion
 Ich habe am Anfang nur mit was ich am diese Zeit wusste programmiert.(if/else, do/while). Es hat funktioniert aber war lang und hat meine Erwartungen nicht betroffen. Dank eine Lerngespräch mit Herr Colic, habe ich mich über andere Techniken informiert. Ich habe herausgefunden, dass es viel bessere Wegen gab und musste meine Programm fast von neu anfangen.
 
-Immer wenn ich stecken geblieben war, habe ich mich weiter informiert, wie ich meine Ideen im Programm schreiben kann. 
+Immer wenn ich stecken geblieben war, habe ich mich weiter informiert, wie ich meine Ideen im Programm schreiben kann. Das sollte ich weiter machen, weil ich habe deswegen mehr gelernt und meine Programm verbessert.
 Aber ich konnte nicht meine Ideen gut formulieren für den Suchmaschinen und fand oftmals nicht was ich suchte und habe viele Zeit darüber verbracht. Ich habe dann meine Bruder für Hilfe gefragt und er konnte mich helfen und es auch erklären.
 
 Nächsten mal sollte ich mich Zeit nehmen, um zu überlegen was meine Projekt alles machen soll, da ich bei diese Projekt am Anfang nur an den Grobplanung gedacht (es sollt Voci abfragen) und kam während den Programmieren an weiteren Ideen. Ich habe dann gesucht wie ich diese Ideen programmieren kann. Das hat viel Zeit gebraucht hauptsächlich, weil ich fand nicht was ich möchte und habe dann diese Idee nicht gebraucht.
