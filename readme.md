@@ -33,6 +33,7 @@ Heute habe ich mich über 'List' informieren und habe das in eine andere Program
 
 Hausaufgabe:
 - [ ] Ich möchte, dass den Programm weiter frage stellt bis jede Wort einmal vorkommt
+
 Ich habe programmiert, dass es jede Frage mindesten einmal gestellt wird und falls man flasch antwortet wird den Frage in eine zufällige Zeit kommt.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
